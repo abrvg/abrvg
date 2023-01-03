@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am looking to collaborate in projects about data visualization, data engineering, and machine learning 
+
 <!--
 **abrvg/abrvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
